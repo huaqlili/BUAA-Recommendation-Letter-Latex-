@@ -6,4 +6,4 @@ SHU version modified by Zhendong Li (zhendong.li2001@outlook.com) to fit SHU stu
 Mofidied by Xirong Hu to fit THU students. 1 Feb, 2023  
 Mofidied by Huaqiu Li to fit BUAA students. 24 Dec, 2025  
 
-![模板示例](BUAA_Template.png)
+![模板示例](BUAA-Template.png)
